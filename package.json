@@ -1,0 +1,28 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Ce repo contient une appli express.js de type  «hello world» pour tester le déploiement.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamid-Git7/expressjs.git"
+  },
+  "keywords": [
+    "appli",
+    "expressjs",
+    "test",
+    "déploiement"
+  ],
+  "author": "Hamid <contact@hamid.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamid-Git7/expressjs/issues"
+  },
+  "homepage": "https://github.com/Hamid-Git7/expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
